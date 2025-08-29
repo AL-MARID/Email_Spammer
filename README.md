@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="email_spammer_pro.jpg" width="400" alt="email_spammer_pro" />
+      <img src="email_spammer_pro..jpg" width="400" alt="email_spammer_pro" />
     </td>
   </tr>
 </table>
