@@ -31,20 +31,20 @@ This tool must be used responsibly and in accordance with local laws. The develo
 
 
 
-- ** Download:
+- **Download:**
 ```bash
 git clone
 https://github.com/AL-MARID/Email_Spammer.git
 ```
-- ** Enter the tool directory:
+- **Enter the tool directory:**
 ```bash
 cd Email_Spammer
 ```
-- ** Run the tool.
+- **Run the tool.**
 ```bash
 python3 auto_runner.py email_spammer
 ```
-- ** Or run the version that contains the templates.
+- **Or run the version that contains the templates.**
 ```bash
 python3 auto_runner.py email_spammer_pro
 ```
