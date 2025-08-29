@@ -33,7 +33,7 @@ This tool must be used responsibly and in accordance with local laws. The develo
 
 - **Download:**
 ```bash
-git clone https://github.com/ALMARID/Email_Spgit.git
+git clone https://github.com/AL-MARID/Email_Spammer.git
 ```
 - **Enter the tool directory:**
 ```bash
